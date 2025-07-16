@@ -1,16 +1,16 @@
-# demo
+# Task Manager Flutter
 
-A new Flutter project.
+This is a Flutter project for managing tasks.
 
-## Getting Started
+## Project Preview
 
-This project is a starting point for a Flutter application.
+Below are preview images of the app:
 
-A few resources to get you started if this is your first Flutter project:
+![Preview 1](assets/pic1.jpg)
+![Preview 2](assets/pic2.jpg)
+![Preview 3](assets/pic3.jpg)
+![Preview 4](assets/pic4.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add your project description and setup instructions here.
